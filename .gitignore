@@ -49,3 +49,10 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# VSCode
+/.vscode/
+**/.vscode/
+
+# Git .DS_Store
+.DS_Store
